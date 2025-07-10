@@ -1,0 +1,35 @@
+# Core dependencies
+fastapi
+uvicorn
+python-dotenv
+pydantic
+python-multipart
+
+# Database & Storage
+supabase
+chromadb
+
+# LLM & AI
+groq
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain_groq
+
+# Document processing
+pandas
+pypdf
+python-docx
+unstructured[docx,pdf]
+openpyxl
+lxml
+
+# Audio processing
+speechrecognition
+pydub
+simpleaudio
+sarvamai
+
+# Vector DB & Embeddings
+faiss-cpu
