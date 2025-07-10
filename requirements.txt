@@ -16,6 +16,7 @@ langchain-core
 langchain-community
 langchain-chroma
 langchain_groq
+langchain_ollama
 
 # Document processing
 pandas
@@ -24,12 +25,6 @@ python-docx
 unstructured[docx,pdf]
 openpyxl
 lxml
-
-# Audio processing
-speechrecognition
-pydub
-simpleaudio
-sarvamai
 
 # Vector DB & Embeddings
 faiss-cpu
